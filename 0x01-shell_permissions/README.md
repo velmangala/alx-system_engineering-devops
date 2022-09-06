@@ -1,2 +1,1 @@
-
-for the second one, wonder why it isn't working?
+my first readme for task switching user to betty

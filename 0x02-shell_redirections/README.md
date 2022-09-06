@@ -1,4 +1,3 @@
-
 0. 0-hello_world-script that prints “Hello, World”, followed by a new line to the standard output.
 1. 1-confused_smiley - script that displays a confused smiley "(Ôo)'
 2. 2-hellofile - Display the content of the /etc/passwd file.
@@ -26,4 +25,3 @@
 24. 101-gifs - script that lists all the files with a .gif extension in the current directory and all its sub-director
 25. 102-acrostic - script that decodes acrostics that use the first letter of each line.
 26. 103-the_biggest_fan - script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
-
