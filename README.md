@@ -1,1 +1,1 @@
-pwd
+SHELL BASICS
